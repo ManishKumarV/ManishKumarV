@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=preethampathi2305" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=manishkumarv" /> </p>
 <p align="center">
 <br><img src="tenor.gif" width="400px"><br/><br/>
 
@@ -22,7 +22,7 @@
 <br>  
 <br>  
 <div align="center">
-<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=preethampathi2305&count_private=true&show_icons=true&hide_border=true&theme=monokai" href="https://github.com/preethampathi2305"/>
+<img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=manishkumarv&count_private=true&show_icons=true&hide_border=true&theme=monokai" href="https://github.com/preethampathi2305"/>
 </div>
 <!--
 **preethampathi2305/preethampathi2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
