@@ -6,15 +6,15 @@
 
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/preetham-reddy-pathi-15349b11b/">
+<a href="https://www.linkedin.com/in/manish-vuppugandla-95682b1aa/">
   <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:pathip2305@gmail.com">
+<a href="mailto:vuppugandlamanish@gmail.com">
   <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/preetham_pathi/">
+<a href="https://www.instagram.com/manishvuppugandla/">
   <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
