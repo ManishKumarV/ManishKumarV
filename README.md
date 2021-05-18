@@ -4,7 +4,6 @@
 <br><img src="chilldev.gif" width="400px"><br/><br/>
 
 <h2 align="center">Hi there 👋</h2>
-<style> 
 
 <div align="center" >
   
