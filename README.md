@@ -18,6 +18,10 @@
   <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 
+<a href="https://www.codechef.com/users/manish2086">
+  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
 </div >
 <br>  
 <br>  
