@@ -4,7 +4,7 @@
 
 <h2 align="center">Hi there 👋</h2>
 
-<br>
+<br style="background-color:grey;>
 <div align="center">
 <a href="https://www.linkedin.com/in/manish-vuppugandla-95682b1aa/">
   <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
