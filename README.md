@@ -8,19 +8,19 @@
 <div align="center" >
   
 <a href="https://www.linkedin.com/in/manish-vuppugandla-95682b1aa/">
-  <img align="center" alt="LinkdeIN" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="LinkdeIN" width="40px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:vuppugandlamanish@gmail.com">
-  <img align="center" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
+  <img align="center" alt="Email" width="40px" src="https://img.icons8.com/color/48/000000/gmail--v1.png" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/manishvuppugandla/">
-  <img align="center" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="40px" src="https://img.icons8.com/color/48/000000/instagram.png" />
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.codechef.com/users/manish2086">
-  <img align="center" alt="Codechef" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="center" alt="Codechef" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 </div >
